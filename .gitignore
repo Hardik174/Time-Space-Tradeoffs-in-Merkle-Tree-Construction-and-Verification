@@ -13,19 +13,6 @@ build/
 # Temporary files
 tempCodeRunnerFile.py
 
-# Experiment and simulation files
-crypto_block_allocator/block_builder_dp.py
-crypto_block_allocator/experiment_results.csv
-crypto_block_allocator/experiment_runner.py
-crypto_block_allocator/merkle_tree.py
-crypto_block_allocator/multi_block_results.csv
-crypto_block_allocator/multi_block_simulator.py
-crypto_block_allocator/plot_multi_block.py
-crypto_block_allocator/plot_results.py
-
-# Generated plots
-*.png
-
 # IDE and OS files
 .idea/
 .DS_Store
